@@ -89,7 +89,7 @@
         "adm-zip": "^0.5.3",
         "aws-sdk": "^2.979.0",
         "azure-devops-node-api": "^14.0.1",
-        "azure-pipelines-task-lib": "^4.17.3",
+        "azure-pipelines-task-lib": "^5.2.3",
         "base-64": "^0.1.0",
         "https-proxy-agent": "^5.0.0",
         "js-yaml": "^3.13.1",
