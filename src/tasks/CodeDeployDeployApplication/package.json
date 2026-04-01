@@ -6,7 +6,7 @@
     "author": "",
     "license": "MIT",
     "dependencies": {
-        "archiver": "^2.0.0",
+        "archiver": "^4.0.2",
         "sdkutils": "file:../../build/src/lib/sdkutils"
     }
 }
